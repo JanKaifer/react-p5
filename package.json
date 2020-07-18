@@ -1,7 +1,7 @@
 {
-  "name": "react-p5",
+  "name": "react-p5-fixed-ts",
   "version": "1.3.2",
-  "description": "This Component lets you integrate p5 Sketches into your React App",
+  "description": "This Component lets you integrate p5 Sketches into your React App (fixed types)",
   "main": "./build/index.js",
   "types": "./@types",
   "keywords": [
@@ -14,9 +14,9 @@
     "type": "git"
   },
   "author": {
-    "name": "Gherciu Gheorghe",
-    "email": "gherciu553@gmail.com",
-    "url": "https://gherciu.github.io/"
+    "name": "Jan Kaifer",
+    "email": "jan@kaifer.cz",
+    "url": "https://jankaifer.github.io/"
   },
   "license": "MIT",
   "scripts": {
